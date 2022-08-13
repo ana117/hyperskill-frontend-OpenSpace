@@ -8,6 +8,7 @@ Link to the project [Open Space](https://hyperskill.org/projects/143).
 Link to all of [my Hyperskill projects](https://github.com/ana117/hyperskilll-projects).
 
 ## Demo
+![OpenSpace](https://user-images.githubusercontent.com/63540951/184498264-04b7dbcd-22e0-4c1a-8e3f-b322dd2c57fe.gif)
 
 ## Stages
 **Stage 1/5: Launchpad**\
